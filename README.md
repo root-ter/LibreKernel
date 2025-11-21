@@ -41,4 +41,4 @@ Also to build ISO you need this packages: ```mtools```, ```xorriso```, ```grub-p
 To build iso: ```grub-mkrescue -o kernel.iso make``` ("make" is your dir)
 
 ## License
-This project protected MIT License
+This project protected NCM License
