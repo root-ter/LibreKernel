@@ -1,3 +1,5 @@
+Copyright (c) 2025 [Aleksey Kazakevich/LibreSYS]
+
 ## LibreKernel
 LibreKernel - LibreSYS project to create real fully functional kernel & use it in OS.
 
