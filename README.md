@@ -11,11 +11,11 @@ LibreKernel - LibreSYS project to create real fully functional kernel & use it i
 -  [ ] Scheduler
 -  [ ] IDT & interrupts
 -  [ ] Own syscall interrupt
--  [ ] Basic VGA driver
+-  [x] Basic VGA driver
 -  [ ] Basic PCI/PCIe driver
 -  [ ] Basic IDE/ATA/SATA/NVMe drivers
 -  [ ] Basic USB driver
--  [ ] IO driver
+-  [x] IO driver
 -  [ ] ACPI
 -  [ ] Time
 
