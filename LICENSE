@@ -54,6 +54,11 @@ If you distribute the Software or any Modifications, you must:
 
     Clearly state that your Modifications are subject to the same terms (non‑commercial use, no patenting).
 
+Attribute the original author by including:
+    - the author’s name/organization;
+    - a direct link to the source repository;
+    - a note: "Based on [Software Name] by [Author], licensed under NCM License".
+
 6. Disclaimer of Warranty
 
 The Software is provided «as is». The author disclaims all warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non‑infringement.
