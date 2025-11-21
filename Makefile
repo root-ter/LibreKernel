@@ -16,7 +16,7 @@ ASMFLAGS_DEBUG := -f elf64 -g -F dwarf
 
 # Источники
 SRCS_AS := entry/entry.asm
-SRCS_C  := main.c spinlock/spinlock.c mem/mem.c lib/string.c
+SRCS_C  := main.c spinlock/spinlock.c mem/mem.c lib/string.c port/port.c vga/vga.c vga/kprintf.c lib/stk_prt.c
 # Объекты
 ASM_OBJS := $(patsubst %.asm,build/%.asm.o,$(SRCS_AS))
 C_OBJS   := $(patsubst %.c,build/%.c.o,$(SRCS_C))
