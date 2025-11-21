@@ -3,13 +3,13 @@ Non‑Commercial Modification License (NCM License)
 Effective Date:  2025-11-21
 1. Definitions
 
-    «Author» means the original creator or copyright holder of the Software.
+    "Author" means the original creator or copyright holder of the Software.
 
-    «Software» means the source code, documentation, and other materials contained in this repository.
+    "Software" means the source code, documentation, and other materials contained in this repository.
 
-    «Modification» means any alteration, addition, or adaptation of the Software.
+    "Modification" means any alteration, addition, or adaptation of the Software.
 
-    «Commercial Use» means use of the Software for profit, including but not limited to:
+    "Commercial Use" means use of the Software for profit, including but not limited to:
 
         selling copies of the Software;
 
@@ -69,6 +69,8 @@ The author shall not be liable for any damages arising from the use or inability
 
 This License terminates automatically if you breach its terms. Upon termination, you must cease all use and distribution of the Software.
 9. Miscellaneous
+
+    The Author reserves the right to update or replace this License. Previous versions remain valid for existing distributions.
 
     This License does not grant rights to trademarks, logos, or other intellectual property not directly related to the Software.
 
