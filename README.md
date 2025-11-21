@@ -2,20 +2,20 @@
 LibreKernel - LibreSYS project to create real fully functional kernel & use it in OS.
 
 ## Road
-  [x] Memory allocator
-  [x] Spinlock
-  [x] Switching to long mode
-  [x] Kernel string.h
-  [ ] Scheduler
-  [ ] IDT & interrupts
-  [ ] Own syscall interrupt
-  [ ] Basic VGA driver
-  [ ] Basic PCI/PCIe driver
-  [ ] Basic IDE/ATA/SATA/NVMe drivers
-  [ ] Basic USB driver
-  [ ] IO driver
-  [ ] ACPI
-  [ ] Time
+-  [x] Memory allocator
+-  [x] Spinlock
+-  [x] Switching to long mode
+-  [x] Kernel string.h
+-  [ ] Scheduler
+-  [ ] IDT & interrupts
+-  [ ] Own syscall interrupt
+-  [ ] Basic VGA driver
+-  [ ] Basic PCI/PCIe driver
+-  [ ] Basic IDE/ATA/SATA/NVMe drivers
+-  [ ] Basic USB driver
+-  [ ] IO driver
+-  [ ] ACPI
+-  [ ] Time
 
 ## Build
 You can build LibreKernel via:
@@ -30,7 +30,6 @@ To build ISO with kernel.elf, create dir, in this dir create "boot" dir, in "boo
   In "grub" dir create "grub.cfg" file and write this text to "grub.cfg":
   ```
   set timeout=5
-
   menuentry "Kernel" {
     multiboot2 /boot/kernel.elf
     boot
