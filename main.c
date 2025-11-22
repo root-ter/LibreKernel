@@ -8,6 +8,7 @@ extern char _heap_start;
 extern char _heap_end;
 
 void kernel_main() {
+	clean_screen();
 	size_t heap_size = (size_t)((uintptr_t)&_heap_end - (uintptr_t)&_heap_start);
 	malloc_init(&_heap_start, heap_size);
 	uint64_t size64 = (uint64_t)heap_size;
@@ -20,6 +21,12 @@ void kernel_main() {
     } else {
         kprintf(KPRINTF_LOG, "MEM: Heap size: 0x%x%08x bytes\n", high, low);
     }
+
+	for (int i = 0; i < 10000; i++) {
+		// wait
+	}
+	kprintf(KPRINTF_NORMAL, " \n");
+	kprintf(KPRINTF_NORMAL, "Have a nice day! :)\n");
 
 	while (1) {
 		// Nop
