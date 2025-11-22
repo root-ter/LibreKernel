@@ -1,4 +1,4 @@
-; kernel.asm — 32-bit start -> switch to long mode -> call kmain (64-bit)
+; entry.asm — 32-bit start -> switch to long mode -> call kmain (64-bit)
 ; Assemble with: nasm -f elf64 kernel.asm -o build/kernel.asm.o
 
 [BITS 32]
