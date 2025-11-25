@@ -1,6 +1,6 @@
 Non‑Commercial Modification License (NCM License)
+Effective Date: 2025‑11‑21
 
-Effective Date:  2025-11-21
 1. Definitions
 
     "Author" means the original creator or copyright holder of the Software.
@@ -12,24 +12,25 @@ Effective Date:  2025-11-21
     "Commercial Use" means use of the Software for profit, including but not limited to:
 
         selling copies of the Software;
-
         incorporating it into paid products or services;
-
         using it in subscription‑based or licensed offerings.
+
 
     Commercial Use does not include:
         - internal use within an organization that does not directly monetize the Software;
-        - use in non‑profit educational or research projects.
+        - use in non‑profit educational or research projects;
+        - incidental use in personal projects that do not generate revenue.
+
 
 2. Grant of Rights
 
 Subject to the terms below, you are granted the following rights:
 
     Use: You may run, study, and test the Software.
-
     Modify: You may alter, extend, or adapt the Software.
-
     Distribute: You may share the original or modified Software only for non‑commercial purposes (see Section 4).
+
+    This License is granted in perpetuity, unless terminated as provided herein.
 
 3. Contributors
 
@@ -38,38 +39,43 @@ All contributions are licensed under NCM and remain the intellectual property of
 4. Restrictions
 
 You may not:
-    Use the Software or any Modifications for Commercial Use, including indirect monetization (e.g., through advertising, data collection, or bundled services).
+    Use the Software or any Modifications for Commercial Use, including indirect monetization (e.g., through advertising, data collection, or bundled services). For clarity, "indirect monetization" includes:
+        - displaying ads in conjunction with the Software;
+        - collecting and selling user data derived from the Software;
+        - offering the Software as part of a paid service bundle.
 
     Seek or enforce patents on any part of the Software or its Modifications.
-
     Redistribute the Software under a license that removes these restrictions.
+
 
 5. Distribution Requirements
 
 If you distribute the Software or any Modifications, you must:
-
     Include the full text of this License in the distribution.
-
     Attribute the original author (provide a link to the source repository and the author’s name/organization).
-
     Clearly state that your Modifications are subject to the same terms (non‑commercial use, no patenting).
+    Provide a clear notice if the Modifications introduce security risks or incompatibilities.
 
 6. Disclaimer of Warranty
 
 The Software is provided "as is". The author disclaims all warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non‑infringement.
+
 7. Limitation of Liability
 
 The author shall not be liable for any damages arising from the use or inability to use the Software, including but not limited to direct, indirect, incidental, consequential, punitive damages, or loss of profits.
 
+
 8. Termination
 
 This License terminates automatically if you breach its terms. Upon termination, you must cease all use and distribution of the Software.
+The Author may also terminate this License upon written notice if you initiate patent litigation against the Author or contributors regarding the Software.
+
+
 9. Miscellaneous
 
     The Author reserves the right to update or replace this License. Previous versions remain valid for existing distributions.
-
     This License does not grant rights to trademarks, logos, or other intellectual property not directly related to the Software.
-
     If any provision is held invalid, the remaining provisions remain in effect.
-
-    This License is governed by the laws of Russian Federation.
+    This License applies worldwide.
+    This License is governed by the laws of the Russian Federation. Any disputes arising under this License shall be resolved in the courts of the Russian Federation.
+    For inquiries, contact: libresys.kaz@gmail.com
